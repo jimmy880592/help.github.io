@@ -1,0 +1,4 @@
+help - pulls up this page
+sens - changes sensitivity but you have to use it like this example "sens 1.25" this will set your sensitivity to 1.25, and it is 2 by default 
+sensc - this will check your sensitivity
+rlvl - this will restart the game
